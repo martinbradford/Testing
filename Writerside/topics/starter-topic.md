@@ -64,7 +64,7 @@ Please report any issues, usability improvements, or feature requests to our
 
 <a href="Reference.md">Look here</a>
 
-You are welcome to join our
+You are welcome to join our  
 <a href="https://jb.gg/WRS_Slack">public Slack workspace</a>.
 Before you do, please read our [Code of conduct](https://plugins.jetbrains.com/plugin/20158-writerside/docs/writerside-code-of-conduct.html).
 We assume that you’ve read and acknowledged it before joining.
