@@ -10,7 +10,7 @@ permissions:
   pages: write
 
 env:
-  INSTANCE: 'Writerside/top_level'
+  INSTANCE: 'Writerside/TOP_LEVEL'
   ARTIFACT: 'webHelpTOP_LEVEL2-all.zip'
   DOCKER_VERSION: '242.21870'
   ALGOLIA_ARTIFACT: 'algolia-indexes-TOP_LEVEL.zip'
