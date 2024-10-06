@@ -10,10 +10,10 @@ permissions:
   pages: write
 
 env:
-  INSTANCE: 'Writerside/TOP_LEVEL'
-  ARTIFACT: 'webHelpTOP_LEVEL2-all.zip'
+  INSTANCE: 'Writerside/hi'
+  ARTIFACT: 'webHelpHI2-all.zip'
   DOCKER_VERSION: '242.21870'
-  ALGOLIA_ARTIFACT: 'algolia-indexes-TOP_LEVEL.zip'
+  ALGOLIA_ARTIFACT: 'algolia-indexes-HI.zip'
   ALGOLIA_APP_NAME: 'NLAGB2LZHU'
   ALGOLIA_INDEX_NAME: 'MY_INDEX'
   ALGOLIA_KEY: '${{ secrets.ALGOLIA_KEY }}'
